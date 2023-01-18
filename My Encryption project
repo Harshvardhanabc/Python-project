@@ -1,0 +1,5 @@
+X = str(input("Enter Your Recognization Key For analize your PC = "))
+if X=="Harsh123":
+    print("Ok, Analizing your computer")
+else:
+    print("Try again sir, Incorrect Password")
